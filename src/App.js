@@ -1,25 +1,19 @@
-import logo from './logo.svg';
-import './App.css';
+import Likes from './components/Likes';
+import ProfilePic from './components/ProfilePic';
+import DisplayComp from './components/DisplayComp'
+import SMMLinks from './components/SMMLinks'
+
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div id='root-app' className="App">
+      <ProfilePic />
+      <SMMLinks />
+      <DisplayComp />
+      <Likes />
     </div>
   );
 }
 
 export default App;
+
