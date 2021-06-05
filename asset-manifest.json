@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/myreactapp/static/css/main.63c463c6.chunk.css",
+    "main.js": "/myreactapp/static/js/main.d57395bd.chunk.js",
+    "main.js.map": "/myreactapp/static/js/main.d57395bd.chunk.js.map",
+    "runtime-main.js": "/myreactapp/static/js/runtime-main.08605386.js",
+    "runtime-main.js.map": "/myreactapp/static/js/runtime-main.08605386.js.map",
+    "static/js/2.facd5ccf.chunk.js": "/myreactapp/static/js/2.facd5ccf.chunk.js",
+    "static/js/2.facd5ccf.chunk.js.map": "/myreactapp/static/js/2.facd5ccf.chunk.js.map",
+    "static/js/3.2148cdc6.chunk.js": "/myreactapp/static/js/3.2148cdc6.chunk.js",
+    "static/js/3.2148cdc6.chunk.js.map": "/myreactapp/static/js/3.2148cdc6.chunk.js.map",
+    "index.html": "/myreactapp/index.html",
+    "static/css/main.63c463c6.chunk.css.map": "/myreactapp/static/css/main.63c463c6.chunk.css.map",
+    "static/js/2.facd5ccf.chunk.js.LICENSE.txt": "/myreactapp/static/js/2.facd5ccf.chunk.js.LICENSE.txt",
+    "static/media/PP.a82ae945.png": "/myreactapp/static/media/PP.a82ae945.png",
+    "static/media/heart.9beb72fc.svg": "/myreactapp/static/media/heart.9beb72fc.svg",
+    "static/media/logo-facebook.e82b5050.svg": "/myreactapp/static/media/logo-facebook.e82b5050.svg",
+    "static/media/logo-github.4f47f030.svg": "/myreactapp/static/media/logo-github.4f47f030.svg",
+    "static/media/logo-instagram.d031b68e.svg": "/myreactapp/static/media/logo-instagram.d031b68e.svg",
+    "static/media/logo-linkedin.8adc6acd.svg": "/myreactapp/static/media/logo-linkedin.8adc6acd.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.08605386.js",
+    "static/js/2.facd5ccf.chunk.js",
+    "static/css/main.63c463c6.chunk.css",
+    "static/js/main.d57395bd.chunk.js"
+  ]
+}
